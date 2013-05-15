@@ -39,4 +39,9 @@ RSpec.configure do |config|
   config.order = "random"
   config.include Webrat::Matchers, :type => :views
 
+  def test_sign_in(user)
+    controller.sign_in(user)
+  end
+
+
 end
