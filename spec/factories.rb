@@ -7,4 +7,7 @@ Factory.define :user do |user|
 end
 
 
+Factory.sequence :email do |n|
+  "person-#{n}@company.com"
+end
 
