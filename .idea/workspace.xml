@@ -73,10 +73,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="users_controller.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="users_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="40" selection-start="1293" selection-end="1293" vertical-scroll-proportion="0.0">
+            <state line="34" column="24" selection-start="737" selection-end="737" vertical-scroll-proportion="0.20173268">
               <folding />
             </state>
           </provider>
@@ -91,10 +91,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="users_controller_spec.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="users_controller_spec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/controllers/users_controller_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="330" column="22" selection-start="8252" selection-end="8252" vertical-scroll-proportion="0.4980695">
+            <state line="322" column="77" selection-start="8082" selection-end="8082" vertical-scroll-proportion="-8.612904">
               <folding />
             </state>
           </provider>
@@ -1040,16 +1040,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+    <entry file="file://$PROJECT_DIR$/spec/controllers/users_controller_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="40" selection-start="1293" selection-end="1293" vertical-scroll-proportion="0.0">
+        <state line="322" column="77" selection-start="8082" selection-end="8082" vertical-scroll-proportion="-8.612904">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/controllers/users_controller_spec.rb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="330" column="22" selection-start="8252" selection-end="8252" vertical-scroll-proportion="0.4980695">
+        <state line="34" column="24" selection-start="737" selection-end="737" vertical-scroll-proportion="0.20173268">
           <folding />
         </state>
       </provider>
