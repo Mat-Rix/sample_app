@@ -46,8 +46,8 @@
     <file path="/20130520105057_add_admin_to_users.rb" changelist="0bd60d32-9eb5-44aa-95d0-d793d7d8eb34" time="1369047185643" ignored="false" />
     <file path="/_user.html.erb" changelist="0bd60d32-9eb5-44aa-95d0-d793d7d8eb34" time="1369048958998" ignored="false" />
     <file path="/20130521164712_create_microposts.rb" changelist="0bd60d32-9eb5-44aa-95d0-d793d7d8eb34" time="1369154958988" ignored="false" />
-    <file path="/micropost_spec.rb" changelist="0bd60d32-9eb5-44aa-95d0-d793d7d8eb34" time="1369223731045" ignored="false" />
-    <file path="/micropost.rb" changelist="0bd60d32-9eb5-44aa-95d0-d793d7d8eb34" time="1369224262844" ignored="false" />
+    <file path="/micropost_spec.rb" changelist="0bd60d32-9eb5-44aa-95d0-d793d7d8eb34" time="1369225406590" ignored="false" />
+    <file path="/micropost.rb" changelist="0bd60d32-9eb5-44aa-95d0-d793d7d8eb34" time="1369225365420" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,10 +103,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="micropost_spec.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="micropost_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/models/micropost_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="8" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0">
+            <state line="33" column="61" selection-start="694" selection-end="694" vertical-scroll-proportion="0.51981705">
               <folding />
             </state>
           </provider>
@@ -115,7 +115,7 @@
       <file leaf-file-name="micropost.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/micropost.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="38" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0">
+            <state line="17" column="39" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -130,10 +130,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="user.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/user.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="46" selection-start="581" selection-end="581" vertical-scroll-proportion="0.44323483">
+            <state line="20" column="60" selection-start="642" selection-end="642" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -177,12 +177,12 @@
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/spec/controllers/users_controller_spec.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20130521164712_create_microposts.rb" />
-        <option value="$PROJECT_DIR$/spec/models/micropost_spec.rb" />
         <option value="$PROJECT_DIR$/spec/factories.rb" />
-        <option value="$PROJECT_DIR$/app/models/micropost.rb" />
         <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
         <option value="$PROJECT_DIR$/spec/models/user_spec.rb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/app/models/micropost.rb" />
+        <option value="$PROJECT_DIR$/spec/models/micropost_spec.rb" />
       </list>
     </option>
   </component>
@@ -1011,23 +1011,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/models/micropost_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="8" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/factories.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="29" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/micropost.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="38" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1048,7 +1034,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="46" selection-start="581" selection-end="581" vertical-scroll-proportion="0.44323483">
+        <state line="20" column="60" selection-start="642" selection-end="642" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/micropost.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="39" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/micropost_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="61" selection-start="694" selection-end="694" vertical-scroll-proportion="0.51981705">
           <folding />
         </state>
       </provider>
