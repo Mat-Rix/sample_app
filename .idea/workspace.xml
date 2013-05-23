@@ -86,18 +86,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_feed.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/shared/_feed.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="9" selection-start="218" selection-end="218" vertical-scroll-proportion="-3.125">
-              <folding>
-                <marker date="1369330415571" expanded="true" signature="3:215" placeholder="if ... end" />
-                <marker date="1369330415571" expanded="true" signature="77:170" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="_feed_item.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/shared/_feed_item.html.erb">
           <provider selected="true" editor-type-id="text-editor">
@@ -154,10 +142,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="microposts_spec.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="microposts_spec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/requests/microposts_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="48" selection-start="1024" selection-end="1024" vertical-scroll-proportion="0.79893476">
+            <state line="40" column="48" selection-start="1024" selection-end="1024" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample_data.rake" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/tasks/sample_data.rake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="35" selection-start="94" selection-end="94" vertical-scroll-proportion="0.07989348">
               <folding />
             </state>
           </provider>
@@ -193,7 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/users/new.html.erb" />
         <option value="$PROJECT_DIR$/app/views/shared/_micropost_form.html.erb" />
         <option value="$PROJECT_DIR$/app/views/shared/_error_messages.html.erb" />
         <option value="$PROJECT_DIR$/app/views/users/_fields.html.erb" />
@@ -209,6 +205,7 @@
         <option value="$PROJECT_DIR$/app/controllers/microposts_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/microposts/_micropost.html.erb" />
         <option value="$PROJECT_DIR$/spec/requests/microposts_spec.rb" />
+        <option value="$PROJECT_DIR$/lib/tasks/sample_data.rake" />
       </list>
     </option>
   </component>
@@ -289,6 +286,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -897,13 +926,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/shared/_user_info.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="15" selection-start="311" selection-end="311" vertical-scroll-proportion="-6.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="8" selection-start="649" selection-end="649" vertical-scroll-proportion="0.52393275">
@@ -943,8 +965,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="9" selection-start="218" selection-end="218" vertical-scroll-proportion="-3.125">
           <folding>
-            <marker date="1369330415571" expanded="true" signature="3:215" placeholder="if ... end" />
-            <marker date="1369330415571" expanded="true" signature="77:170" placeholder="..." />
+            <marker date="1369330415571" expanded="true" signature="-1:-1" placeholder="if ... end" />
+            <marker date="1369330415571" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1020,7 +1042,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/requests/microposts_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="48" selection-start="1024" selection-end="1024" vertical-scroll-proportion="0.79893476">
+        <state line="40" column="48" selection-start="1024" selection-end="1024" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/sample_data.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="35" selection-start="94" selection-end="94" vertical-scroll-proportion="0.07989348">
           <folding />
         </state>
       </provider>
