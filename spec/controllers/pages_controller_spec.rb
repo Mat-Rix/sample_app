@@ -37,8 +37,6 @@ describe PagesController do
                                             :content => "1 follower")
       end
 
-
-
     end
 
   end
